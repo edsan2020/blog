@@ -1,0 +1,39 @@
+{
+  "siteUrl": "http://localhost:8884",
+  "phpVersion": "8.4",
+  "wordpressVersion": "7.0.2",
+  "plugins": [
+    {
+      "name": "akismet",
+      "status": "inactive",
+      "version": "5.7"
+    },
+    {
+      "name": "hello",
+      "status": "inactive",
+      "version": "1.7.2"
+    }
+  ],
+  "themes": [
+    {
+      "name": "camino-esperanza",
+      "status": "active",
+      "version": "0.1.0"
+    },
+    {
+      "name": "twentytwentyfive",
+      "status": "inactive",
+      "version": "1.5"
+    },
+    {
+      "name": "twentytwentyfour",
+      "status": "inactive",
+      "version": "1.5"
+    },
+    {
+      "name": "twentytwentythree",
+      "status": "inactive",
+      "version": "1.6"
+    }
+  ]
+}
